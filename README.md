@@ -8,7 +8,7 @@ firstname middlename lastname
 </pre>
 
 ## Getting Started
-This project build with plain html and javascript,just clone and open <pre>index.html</pre> on the browser and see the result
+This project build with plain html and javascript,just clone and open <pre>index.html</pre> on the browser and see the result (refresh the browser for sorted result).
 
 ### build with
 
